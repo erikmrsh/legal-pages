@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Terms of Service</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
+    h1 { text-align: center; }
+    ol { padding-left: 20px; }
+    li { margin-bottom: 15px; }
+  </style>
+</head>
+<body>
+  <h1>Terms of Service for GPT Model Training App</h1>
+  <p><strong>Last Updated:</strong> March 1, 2025</p>
+  <ol>
+    <li>
+      <strong>Purpose:</strong>
+      <p>This service is provided solely for internal use to train a GPT model. It is not intended for public distribution or commercial use.</p>
+    </li>
+    <li>
+      <strong>Acceptance of Terms:</strong>
+      <p>By accessing and using this service, you agree to these Terms of Service. If you do not agree, please refrain from using the service.</p>
+    </li>
+    <li>
+      <strong>Service Provision:</strong>
+      <p>The service is provided “as is” without any express or implied warranties. Use the service at your own risk.</p>
+    </li>
+    <li>
+      <strong>Data Usage:</strong>
+      <p>All data processed through this service is used exclusively for training purposes. No data will be shared with third parties.</p>
+    </li>
+    <li>
+      <strong>Intellectual Property:</strong>
+      <p>All rights to the training data and model outputs remain with the owner. No intellectual property rights are transferred by using this service.</p>
+    </li>
+    <li>
+      <strong>Limitation of Liability:</strong>
+      <p>Under no circumstances shall the provider be liable for any direct, indirect, or consequential damages arising from the use of this service.</p>
+    </li>
+    <li>
+      <strong>Modifications:</strong>
+      <p>We reserve the right to update these Terms at any time. Continued use of the service signifies acceptance of any changes.</p>
+    </li>
+  </ol>
+</body>
+</html>
