@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
+    h1 { text-align: center; }
+    ol { padding-left: 20px; }
+    li { margin-bottom: 15px; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy for GPT Model Training App</h1>
+  <p><strong>Last Updated:</strong> March 1, 2025</p>
+  <ol>
+    <li>
+      <strong>Data Collection:</strong>
+      <p>This service does not collect personal data. All data processed is provided by the user solely for the purpose of training a GPT model.</p>
+    </li>
+    <li>
+      <strong>Data Usage:</strong>
+      <p>Any data processed is used exclusively for internal training purposes. It is neither sold nor shared with third parties.</p>
+    </li>
+    <li>
+      <strong>Data Security:</strong>
+      <p>Reasonable measures are taken to protect data processed by this service. However, as the service is provided “as is,” no absolute security guarantees can be made.</p>
+    </li>
+    <li>
+      <strong>Data Retention:</strong>
+      <p>Data is retained only for as long as necessary to train the GPT model and will be disposed of once it is no longer needed.</p>
+    </li>
+    <li>
+      <strong>User Rights:</strong>
+      <p>Since no personal data is collected, there are no additional rights regarding data access, correction, or deletion beyond this policy.</p>
+    </li>
+    <li>
+      <strong>Changes to This Policy:</strong>
+      <p>We may update this Privacy Policy from time to time. Your continued use of the service implies acceptance of any changes.</p>
+    </li>
+  </ol>
+</body>
+</html>
